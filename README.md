@@ -1,0 +1,1 @@
+This is NEXTJS FULLSTACK series
