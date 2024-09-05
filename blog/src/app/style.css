@@ -1,0 +1,23 @@
+.input{
+    height: 40px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    /* margin: auto; for centre */
+    margin: auto;
+    margin-bottom: 20px;
+    display: block;
+}
+.btn{
+    height: 40px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+    display: block;
+}
